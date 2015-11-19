@@ -4,7 +4,7 @@ An open-sourced custom Django application for CoderDojoChi.
 
 ## First Time
 
-1. Install python, pip, and [nodejs](https://nodejs.org/).
+1. Install python, pip, postgres, and [nodejs](https://nodejs.org/).
 
 2. Fork project.
 
